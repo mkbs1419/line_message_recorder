@@ -13,9 +13,12 @@ LINE Developers: https://developers.line.me/en/
 
 
 3) 修改BOT設定
+![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/1.png "修改BOT設定")
 4) 產生新Token
 5) 啟用webhooks
-undefinedundefined6) 建立試算表，複製文件ID
+![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-1.png "修改BOT設定")
+![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-2.png "修改BOT設定")
+6) 建立試算表，複製文件ID
 EX： https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272IiP8/edit#gid=0
 其文件ID為：1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272IiP8
 7) 到GAS程式碼 [message_record.gs]
