@@ -23,10 +23,10 @@ EX： https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc
 *注意事項：專案版本為[新增]
 *具有應用程式存取權的使用者：[任何人，甚至是匿名使用者]
 *第一次需提供授權
-undefined9) 複製[網路應用程式網址]
+9) 複製[網路應用程式網址]
 10) 回到LINE Developers，編輯Webhook URL，並點選Verify
 *Verify雖會顯示錯誤，但如果可在試算表看到LINE_DEV的訊息，即代表部署成功
 undefinedundefined
 GAS重新部署
 
-每次修改GAS程式碼之後都需要重新發佈網路應用程式，專案版本請修改為[新增]。
+*每次修改GAS程式碼之後都需要重新發佈網路應用程式，專案版本請修改為[新增]。
