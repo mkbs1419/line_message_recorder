@@ -11,8 +11,8 @@ LINE Developers: https://developers.line.me/en/
 2) 建立BOT帳號
 
 
-undefined3) 修改BOT設定
-undefined4) 產生新Token
+3) 修改BOT設定
+4) 產生新Token
 5) 啟用webhooks
 undefinedundefined6) 建立試算表，複製文件ID
 EX： https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272IiP8/edit#gid=0
