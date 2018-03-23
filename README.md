@@ -25,7 +25,14 @@ LINE Developers: https://developers.line.me/en/
 ![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-2.png "修改BOT設定")
 6) 建立試算表，複製文件ID
 
-EX： https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I123/edit#gid=0
+從 Google Drive裡建立一份Google Sheets，其網址格式為：
+```
+https://docs.google.com/spreadsheets/d/{試算表ID}/edit#gid=0
+```
+舉例來說，我的試算表網址為：
+```
+https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I123/edit#gid=0
+```
 
 則其文件ID為：1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I123
 
@@ -39,9 +46,7 @@ var SpreadSheet = SpreadsheetApp.openById("{{YOUR_SPREADSHEETAPP_ID}}");
 8) 點選 [發佈]→[部署為網路應用程式...]
 
 * 注意事項：專案版本為[新增]
-
 * 具有應用程式存取權的使用者：[任何人，甚至是匿名使用者]
-
 * 第一次需提供授權
 
 9) 複製[網路應用程式網址]
