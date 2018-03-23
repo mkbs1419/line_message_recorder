@@ -53,7 +53,7 @@ var SpreadSheet = SpreadsheetApp.openById("{{YOUR_SPREADSHEETAPP_ID}}");
 9) 複製[網路應用程式網址]
 
 10) 回到LINE Developers，編輯Webhook URL，並點選Verify
-* Verify雖會顯示錯誤，但如果可在試算表看到LINE_DEV的訊息，即代表部署成功
+* Verify雖會顯示錯誤，因為程式沒有做回應機制，如果可在試算表看到LINE_DEV的訊息，即代表部署成功
 
 ### GAS重新部署
 
