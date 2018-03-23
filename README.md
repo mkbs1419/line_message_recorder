@@ -49,7 +49,8 @@ https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I
 
 ### GAS Code 佈署
 
-7) 到GAS程式碼 [message_record.gs]
+7) 在Google Drive上建立GAS程式，並複製 **message_record.js** 內的程式碼
+
 修改部分：[CHANNEL_ACCESS_TOKEN]、[SpreadSheet]
 ```js
 var CHANNEL_ACCESS_TOKEN = "{{YOUR_CHANNEL_ACCESS_TOKEN}}";
