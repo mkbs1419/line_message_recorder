@@ -20,15 +20,15 @@ Developed by **Line Messaging API** + **Google Apps Script**
 
 3) BOT設定
 
-![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/1.png "修改BOT設定")
+![修改BOT設定](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/1.png "修改BOT設定")
 
 4) 產生新Channel Access Token(重要)
 
 5) 啟用webhooks
 
-![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-1.png "產生Channel Access Token")
+![產生Channel Access Token](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-1.png "產生Channel Access Token")
 
-![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-2.png "啟用webhooks")
+![啟用webhooks](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/2-2.png "啟用webhooks")
 
 ### Google Drive
 
@@ -36,7 +36,7 @@ Developed by **Line Messaging API** + **Google Apps Script**
 
 7) 建立一份新的Google 試算表，並取得文件ID
 
-![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/4-2.png "試算表格式範例")
+![試算表格式範例](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/4-2.png "試算表格式範例")
 
 接下來要取得試算表的文件ID，Google 試算表的網址格式為：
 ```
@@ -67,7 +67,7 @@ var SpreadSheet = SpreadsheetApp.openById("{{YOUR_SPREADSHEETAPP_ID}}");
 
 10) 複製[網路應用程式網址]
 
-![GITHUB](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/3-2.png "複製網路應用程式網址")
+![複製網路應用程式網址](https://raw.githubusercontent.com/mkbs1419/line_message_recorder/master/PNG/3-2.png "複製網路應用程式網址")
 
 11) 回到LINE Developers，編輯Webhook URL，並點選Verify
 
