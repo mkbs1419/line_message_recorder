@@ -10,7 +10,7 @@ Developed by **Line Messaging API** + **Google Apps Script**
 |Google Drive:          | https://www.google.com/intl/zh-TW_ALL/drive/  |
 |LINE Developers:       | https://developers.line.me/en/                |
 
-## 佈署方式
+## 部署方式
 
 ### LINE Developers新帳號建立步驟
 
@@ -49,7 +49,7 @@ https://docs.google.com/spreadsheets/d/1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I
 
 則其文件ID為：1Aj9gBDOPLwDuiGR3pHPE1H_wO9ut-u2brc8Z272I123
 
-### GAS Code 佈署
+### GAS Code 部署
 
 8) 在Google Drive上建立GAS程式，並複製 **message_record.js** 內的程式碼
 
