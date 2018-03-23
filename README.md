@@ -4,6 +4,8 @@ Developed by **Line Messaging API** + **Google Apps Script**
 
 將BOT加入對話群組，BOT會將群組內的對話、照片等存在Google Drive內。
 
+|網站說明                |                                              |
+|-----------------------|-----------------------------------------------|
 |Google Apps Script:    | https://developers.google.com/apps-script/    |
 |Google Drive:          | https://www.google.com/intl/zh-TW_ALL/drive/  |
 |LINE Developers:       | https://developers.line.me/en/                |
